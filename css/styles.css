@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+body{
+	text-align: center;
+}
+
+.logoimg {
+	width: 20%;
+}
+
+.masthead {
+	width: 99%;
+	margin: 0 auto;
+}
+
+.navbar li {
+
+	list-style: none;
+	text-align: center;
+	padding: 10px;
+}
+
+.navbar li a {
+		color: #522d5b;
+		font-size: 25px;
+		margin: 5px;
+		padding: 8px;
+		font-family: 'Manrope' , sans-serif;
+}
+
+.money {
+	width:80%;
+	margin-top: 25px;
+	margin-left: 60px;
+}
+
+.gmo {
+	width: 80%;
+	margin-top: 25px;
+	margin-left: 60px;
+}
+
+.world {
+	width: 80%;
+	margin-top: 25px;
+	margin-left: 60px;
+}
+
+p  {
+	color: #204051;
+	size: 25px;
+	font-family: 'Manrope', sans-serif;
+	margin-top: 20px;
+}
+
+.para {
+	margin-top: 10px;
+	text-align: center;
+}
+
+.imgs {
+	margin-top: 25px;
+	width: 80%;
+}
+
+h2 {
+	font-size: 25px;
+	font-family: 'Manrope', sans-serif;
+	color: #00bcd4;
+}
+
+h3 {
+	color: #d8345f;
+	font-family: 'Manrope' , sans-serif;
+	size: 35px;
+}
+
+.line {
+	width: 90%;
+}
+
+.socialmedia a:link {
+    text-decoration: none;
+    font-size: 2rem;
+    color: black;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-top: 20px;
+}
+
+.socialmedia a:link,
+.socialmedia a:visited,
+.socialmedia a:active {
+    color: pink;
+}
+
+.socialmedia a:hover{
+	color: #005082;
+}
+
+.margin-adj{
+    margin: 2% 0% -1% 0%;
+}
